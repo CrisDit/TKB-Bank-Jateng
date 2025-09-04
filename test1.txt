@@ -1,0 +1,2 @@
+RDBMS : phpmyadmin MySQL
+QUERY : SELECT * FROM data_cabang
